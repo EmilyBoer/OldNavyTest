@@ -1,0 +1,110 @@
+
+
+
+{
+"headquarters": [
+
+{"job": "PLANNER, STORE PLANNING",
+"location": "OLD NAVY, SAN FRANCISCO, CA",
+"description": "Describing the type of canidate desired and the environment of the job",
+"apply": "Apply Now"
+
+},
+
+{"job": "ONLINE INVENTORY SPECIALIST",
+"location": "OLD NAVY, SAN FRANCISCO, CA",
+"description": "Describing the type of canidate desired and the environment of the job",
+"apply": "Apply Now"
+},
+
+{"job": "SENIOR GRAPHIC DESIGNER",
+"location": "OLD NAVY, SAN FRANCISCO, CA",
+"description": "Describing the type of canidate desired and the environment of the job",
+"apply": "Apply Now"
+},
+
+{"job": "PLANNER, STORE PLANNING",
+"location": "OLD NAVY, SAN FRANCISCO, CA",
+"description": "Describing the type of canidate desired and the environment of the job",
+"apply": "Apply Now"
+},
+
+{"job": "PLANNER, STORE PLANNING",
+"location": "OLD NAVY, SAN FRANCISCO, CA",
+"description": "Describing the type of canidate desired and the environment of the job",
+"apply": "Apply Now"
+}
+],
+
+"stores": [
+
+{"job": "STORE MANAGER",
+"location": "OLD NAVY, KENNETT SQUARE, PA",
+"description": "Describing the type of canidate desired and the environment of the job",
+"apply": "Apply Now"
+},
+
+{"job": "SALES ASSOCIATE",
+"location": "OLD NAVY, GREELEY, CO",
+"description": "Describing the type of canidate desired and the environment of the job",
+"apply": "Apply Now"
+},
+
+{"job": "INVENTORY MANAGER",
+"location": "OLD NAVY, SEATTLE, WA",
+"description": "Describing the type of canidate desired and the environment of the job",
+"apply": "Apply Now"
+},
+
+{"job": "PLANNER, STORE PLANNING",
+"location": "OLD NAVY, SAN FRANCISCO, CA",
+"description": "Describing the type of canidate desired and the environment of the job",
+"apply": "Apply Now"
+},
+
+{"job": "PLANNER, STORE PLANNING",
+"location": "OLD NAVY, SAN FRANCISCO, CA",
+"description": "Describing the type of canidate desired and the environment of the job",
+"apply": "Apply Now"
+}
+],
+
+"international": [
+
+{"job": "STORE MANAGER",
+"location": "OLD NAVY, PARIS, FRANCE",
+"description": "Describing the type of canidate desired and the environment of the job",
+"apply": "Apply Now"
+},
+
+{"job": "SALES ASSOCIATE",
+"location": "OLD NAVY, MONTREAL, CANADA",
+"description": "Describing the type of canidate desired and the environment of the job",
+"apply": "Apply Now"
+},
+
+{"job": "INVENTORY MANAGER",
+"location": "OLD NAVY, MEXICO CITY, MEXICO",
+"description": "Describing the type of canidate desired and the environment of the job",
+"apply": "Apply Now"
+},
+
+{"job": "PLANNER, STORE PLANNING",
+"location": "OLD NAVY, SAN FRANCISCO, CA",
+"description": "Describing the type of canidate desired and the environment of the job",
+"apply": "Apply Now"
+},
+
+{"job": "PLANNER, STORE PLANNING",
+"location": "OLD NAVY, SAN FRANCISCO, CA",
+"description": "Describing the type of canidate desired and the environment of the job",
+"apply": "Apply Now"
+}
+]
+
+
+
+
+}
+
+	
